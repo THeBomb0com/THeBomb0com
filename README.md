@@ -9,7 +9,6 @@
         }
         
         body {
-            font-size: 25px;
             background-color: rgb(105, 250, 134);
         }
         
@@ -23,7 +22,7 @@
         }
         
         .steps {
-            font-size: 25px;
+            font-size: 40px;
             font-family: "Helvetica" sans-serif;
             text-align: center;
             color: rgb(247, 0, 132);
