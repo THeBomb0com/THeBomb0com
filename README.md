@@ -182,8 +182,7 @@ ounces bittersweet chocolate, for shaving (optional)</td>
     <p><em>Source: <a target="_blank" href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
   
           <h2 id="Number-#3">Recipe #3: Coffee Cake</h2>
-          <img src="[https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f](https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?resize=1200:*)"/>
-
+          <img src="https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3852359862_3f45361100_o.jpg?resize=480:*" alt="Image (42) 3852359862_3f45361100_o.jpg for post 8883"/>
 
            <ul>
             <li class="Time">Time: 35 mins</li>
@@ -382,7 +381,7 @@ Cinnamon sugar</td>
         
     <p><em>Source: <a target="_blank" href="https://www.allrecipes.com/recipe/241917/quick-cinnamon-rolls/">allrecipes</a></em></p>
     
-    <a href="#THeBomb">back to top</a>
+    <p><a href="#THeBomb">back to top</a></p>
     
     <p>To learn more about HTML,CSS,JS and more,to create you own website or something else click<a target="_blank" href="https://www.w3.org/standards/webdesign/htmlcss"> here</a></p>
     </body>
