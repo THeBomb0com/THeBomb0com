@@ -182,7 +182,7 @@ ounces bittersweet chocolate, for shaving (optional)</td>
     <p><em>Source: <a target="_blank" href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
   
           <h2 id="Number-#3">Recipe #3: Coffee Cake</h2>
-          <img src="https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f"/>
+          <img src="https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f" width=247>
 
            <ul>
             <li class="Time">Time: 35 mins</li>
@@ -316,7 +316,8 @@ Cinnamon sugar</td>
     
      
            <h2 id="Number-#5">Recipe #5: Cinnamon Rolls</h2>
-
+            <img src="https://www.allrecipes.com/thmb/hUtR3ApQX9PG8FZDCI_T-6HnG9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7760040_Quick-Cinnamon-Rolls-4x3-1-2000-818203ab13be4a78a5b4e4d8defbb943.jpg">
+            
           <ul>
             <li class="Time">Time: 40 mins</li>
             <li class="Time">Serves: 18</li>
