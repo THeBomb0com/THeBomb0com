@@ -100,7 +100,7 @@
 <p class="steps"><strong>Step 7:</strong> Remove the bread from the oven, and cool it on a rack. When it's completely cool, wrap it well in plastic wrap and if time allows, store it overnight before serving. Waiting to enjoy the bread allows the flavors to meld and texture to completely set.
 </p>
         
-    <p><em>Source: <a href="https://www.kingarthurbaking.com/recipes/easy-pumpkin-bread-recipe">kingarthurbaking</a></em></p>
+    <p><em>Source: <a target="next-blank" href="https://www.kingarthurbaking.com/recipes/easy-pumpkin-bread-recipe">kingarthurbaking</a></em></p>
     
             <h2 id="Number-#2">Recipe #2: Tiramisu</h2>
             
@@ -164,7 +164,7 @@ ounces bittersweet chocolate, for shaving (optional)</td>
 <p class="steps"><strong>Step 7:</strong> Cover with plastic wrap and let chill in the refrigerator for at least 4 hours (if you can wait 24 hours, all the better) before slicing or scooping to serve.
 </p>
     
-    <p><em>Source: <a href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
+    <p><em>Source: <a target="next-blank" href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
   
           <h2 id="Number-#3">Recipe #3: Coffee Cake</h2>
           
@@ -234,7 +234,7 @@ ounces bittersweet chocolate, for shaving (optional)</td>
 <p class="steps"><strong>Step 9:</strong> Combine all icing ingredients, then ice the cake. Chill for an hour before serving.
 </p>
        
-    <p><em>Source: <a href="https://www.thepioneerwoman.com/food-cooking/recipes/a8883/coffee-cake-literally/">thepioneerwoman</a></em></p>
+    <p><em>Source: <a target="next-blank" href="https://www.thepioneerwoman.com/food-cooking/recipes/a8883/coffee-cake-literally/">thepioneerwoman</a></em></p>
    
            <h2 id="Number-#4">Recipe #4: Churros</h2>
           
@@ -295,10 +295,10 @@ Cinnamon sugar</td>
 </p>
 
           
-    <p><em>Source: <a href="https://www.delish.com/cooking/recipe-ideas/a27117110/easy-churros-recipe/">delish</a></em></p>
+    <p><em>Source: <a target="next-blank" href="https://www.delish.com/cooking/recipe-ideas/a27117110/easy-churros-recipe/">delish</a></em></p>
     
     <a href="#Michael">back to top</a>
     
-    <p>To learn more about HTML,CSS,JS and more  click<a href="https://www.w3.org/standards/webdesign/htmlcss"> here</a></p>
+    <p>To learn more about HTML,CSS,JS and more  click<a target="next-blank" href="https://www.w3.org/standards/webdesign/htmlcss"> here</a></p>
     </body>
 </html>
