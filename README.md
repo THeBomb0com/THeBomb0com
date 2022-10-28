@@ -182,7 +182,8 @@ ounces bittersweet chocolate, for shaving (optional)</td>
     <p><em>Source: <a target="_blank" href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
   
           <h2 id="Number-#3">Recipe #3: Coffee Cake</h2>
-          <img src="https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f" width=247>
+          <img src="[https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f](https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?resize=1200:*)"/>
+
 
            <ul>
             <li class="Time">Time: 35 mins</li>
