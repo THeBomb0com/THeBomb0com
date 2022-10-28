@@ -48,9 +48,7 @@
         </ol>
         
         <h2 id="Number-#1">Recipe #1: Pumkin bread</h2>
-        
-        <img src="https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2022-10/easy-pumpkin-bread_0922.jpg?itok=m5LKlB2J" alt="Easy Pumpkin Bread - select to zoom"/>![image](https://user-images.githubusercontent.com/116920055/198735335-02ff73a4-51d6-4abc-92f5-1eaafeb28114.png)
-
+        <img src="https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2022-10/easy-pumpkin-bread_0922.jpg?itok=m5LKlB2J">
         
         <ul>
             <li class="Time">Time: 1 hr and 10 mins</li>
