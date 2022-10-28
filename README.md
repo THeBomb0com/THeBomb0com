@@ -117,7 +117,8 @@
     <p><em>Source: <a target="_blank" href="https://www.kingarthurbaking.com/recipes/easy-pumpkin-bread-recipe">kingarthurbaking</a></em></p>
     
             <h2 id="Number-#2">Recipe #2: Tiramisu</h2>
-            
+             <img src="https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-master768.jpg?w=1280&amp;q=75" alt="Classic Tiramisù"/>
+       
              <ul>
             <li class="Time">Time: 25 mins</li>
             <li class="Time">Serves: 1</li>
@@ -181,7 +182,8 @@ ounces bittersweet chocolate, for shaving (optional)</td>
     <p><em>Source: <a target="_blank" href="https://cooking.nytimes.com/recipes/1018684-classic-tiramisu">NYT Cooking</a></em></p>
   
           <h2 id="Number-#3">Recipe #3: Coffee Cake</h2>
-          
+          <img src="https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2009/08/3851565629_02499b845f1.jpg?crop=0.666xw:1xh;center,top&amp;resize=640:*" alt="3851565629_02499b845f"/>
+
            <ul>
             <li class="Time">Time: 35 mins</li>
             <li class="Time">Serves: 12</li>
@@ -251,7 +253,8 @@ ounces bittersweet chocolate, for shaving (optional)</td>
     <p><em>Source: <a target="_blank" href="https://www.thepioneerwoman.com/food-cooking/recipes/a8883/coffee-cake-literally/">thepioneerwoman</a></em></p>
    
            <h2 id="Number-#4">Recipe #4: Churros</h2>
-          
+          <img src="https://hips.hearstapps.com/hmg-prod/images/190411-churros-vertical-4-1555698000.png?crop=1.00xw:0.667xh;0,0.230xh&amp;resize=480:*" alt="churros"/>
+
           <ul>
             <li class="Time">Time: 45 mins</li>
             <li class="Time">Serves: 16</li>
@@ -313,7 +316,7 @@ Cinnamon sugar</td>
     
      
            <h2 id="Number-#5">Recipe #5: Cinnamon Rolls</h2>
-          
+
           <ul>
             <li class="Time">Time: 40 mins</li>
             <li class="Time">Serves: 18</li>
