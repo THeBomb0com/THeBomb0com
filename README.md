@@ -22,7 +22,7 @@
         }
         
         .steps {
-            font-size: 40px;
+            font-size: 25px;
             font-family: "Helvetica" sans-serif;
             text-align: center;
             color: rgb(247, 0, 132);
