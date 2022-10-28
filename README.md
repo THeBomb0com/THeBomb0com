@@ -35,6 +35,14 @@
         h1 {
             color: rgb(135, 44, 135);
        }
+            
+        ul {
+         font-size: 20px; 
+        } 
+            
+        p {
+         font-size: 20px;   
+        }    
         </style>
     </head>
     <body>
