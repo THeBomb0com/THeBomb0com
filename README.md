@@ -61,7 +61,7 @@
         </ol>
         
         <h2 id="Number-#1">Recipe #1: Pumkin bread</h2>
-        <img src="https://www.onceuponachef.com/images/2009/09/Pumpkin-Bread-100.jpg">
+        <img src="https://www.onceuponachef.com/images/2009/09/Pumpkin-Bread-100.jpg" alt="Pumpkin Bread - Once Upon a Chef"/>
         
         <ul>
             <li class="Time">Time: 1 hr and 10 mins</li>
